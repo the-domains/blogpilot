@@ -1,7 +1,7 @@
 name: BlogPilot
 favicon: null
-layout_spectrum: 0.538596437079832
-typography_spectrum: 0.8465994393918663
+layout_spectrum: 0.25572
+typography_spectrum: 0.17273
 title: BlogPilot!
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.13223434565588832
-  lightness: 0.3878914031665772
-  saturation: 0.48426215164363384
-  rhythmicContrast: 0.18703367467969656
+  brandStrength: 0.9375
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
