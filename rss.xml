@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BlogPilot!]]></title>
         <description><![CDATA[BlogPilot!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blogpilot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 12:31:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 21 Jun 2016 12:34:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blogpilot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How should BlogPilot blog? and why?]]></title>
             <description><![CDATA[<article><h1>How should BlogPilot blog? and why?</h1><h2>Where should we fall in?</h2><p>What is to be the supreme purpose of our own blog?</p></article>]]></description>
-            <link>undefinedhow-should-blogpilot-blog-and-why/index.html</link>
+            <link>https://thegrid.ai/blogpilot/how-should-blogpilot-blog-and-why/index.html</link>
             <guid isPermaLink="false">a0e99ecb-871a-49ed-a149-dc37b4e4d2ab</guid>
-            <pubDate>Tue, 21 Jun 2016 12:31:55 GMT</pubDate>
+            <pubDate>Tue, 21 Jun 2016 12:34:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
