@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BlogPilot!]]></title>
+        <description><![CDATA[BlogPilot!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 21 Jun 2016 12:31:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How should BlogPilot blog? and why?]]></title>
+            <description><![CDATA[<article><h1>How should BlogPilot blog? and why?</h1><h2>Where should we fall in?</h2><p>What is to be the supreme purpose of our own blog?</p></article>]]></description>
+            <link>undefinedhow-should-blogpilot-blog-and-why/index.html</link>
+            <guid isPermaLink="false">a0e99ecb-871a-49ed-a149-dc37b4e4d2ab</guid>
+            <pubDate>Tue, 21 Jun 2016 12:31:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
