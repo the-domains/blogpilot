@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: What is to be the supreme purpose of our own blog?
-datePublished: '2016-06-21T12:31:55.526Z'
-dateModified: '2016-06-21T12:30:41.199Z'
+datePublished: '2016-06-21T12:34:51.889Z'
+dateModified: '2016-06-21T12:32:03.845Z'
 title: How should BlogPilot blog? and why?
 author: []
+sourcePath: _posts/2016-06-21-how-should-blogpilot-blog-and-why.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-21-how-should-blogpilot-blog-and-why.md
 url: how-should-blogpilot-blog-and-why/index.html
 _type: Article
 
