@@ -2,6 +2,7 @@ name: BlogPilot
 favicon: null
 layout_spectrum: 0.538596437079832
 typography_spectrum: 0.8465994393918663
+title: BlogPilot!
 cta:
   domain: null
   bucket: null
